@@ -9,7 +9,7 @@ Passionate as a Fullstack Developer with two years of experience specializing in
 * 🌍  I'm based in Jakarta, Indonesia
 * 🖥️  See my portfolio at [Personal Website](http://danangipulbasrin.com)
 * ✉️  You can contact me at [danangipulbasrin@gmail.com](mailto:danangipulbasrin@gmail.com)
-* 🚀  I'm currently working on [PT. Code Development Indonesia](http://code.id)
+* 🚀  I'm currently working on [PT Code Development Indonesia](http://code.id)
 
 <a href="https://www.github.com/rkuning" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rkuning?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
