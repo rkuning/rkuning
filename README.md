@@ -31,3 +31,6 @@ src="https://img.shields.io/github/followers/rkuning?logo=github&style=for-the-b
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/rkuning"><img src="https://github-readme-stats.vercel.app/api?username=rkuning&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rkuning's GitHub stats" /></a>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
