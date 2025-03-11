@@ -33,4 +33,21 @@ src="https://img.shields.io/github/followers/rkuning?logo=github&style=for-the-b
 <a href="http://www.github.com/rkuning"><img src="https://github-readme-stats.vercel.app/api?username=rkuning&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rkuning's GitHub stats" /></a>
 
 <!--START_SECTION:waka-->
+
+```go
+From: 28 October 2022 - To: 10 March 2025
+
+Total Time: 1,216 hrs 17 mins
+
+JavaScript       675 hrs 11 mins >>>>>>>>>>>>>>-----------   55.04 %
+TypeScript       250 hrs 38 mins >>>>>--------------------   20.43 %
+Go               106 hrs 57 mins >>-----------------------   08.72 %
+Dart             38 hrs 10 mins  >------------------------   03.11 %
+HTML             30 hrs 53 mins  >------------------------   02.52 %
+SCSS             21 hrs 54 mins  -------------------------   01.79 %
+Kotlin           21 hrs 8 mins   -------------------------   01.72 %
+CSS              13 hrs 42 mins  -------------------------   01.12 %
+Other            10 hrs 30 mins  -------------------------   00.86 %
+```
+
 <!--END_SECTION:waka-->
