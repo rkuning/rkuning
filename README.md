@@ -35,11 +35,11 @@ src="https://img.shields.io/github/followers/rkuning?logo=github&style=for-the-b
 <!--START_SECTION:waka-->
 
 ```go
-From: 28 October 2022 - To: 19 June 2025
+From: 28 October 2022 - To: 20 June 2025
 
-Total Time: 1,414 hrs 44 mins
+Total Time: 1,414 hrs 46 mins
 
-JavaScript       817 hrs 16 mins >>>>>>>>>>>>>>-----------   57.24 %
+JavaScript       817 hrs 18 mins >>>>>>>>>>>>>>-----------   57.24 %
 TypeScript       294 hrs 22 mins >>>>>--------------------   20.62 %
 Go               106 hrs 57 mins >>-----------------------   07.49 %
 Dart             38 hrs 10 mins  >------------------------   02.67 %
