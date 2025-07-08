@@ -7,7 +7,7 @@ Fullstack Developer
 Passionate as a Fullstack Developer with two years of experience specializing in Typescript, Go, and JavaScript with expertise in ReactJS, NodeJS, and Elasticsearch. Skilled in building efficient, scalable applications and continuously expanding technical knowledge. Need a reliable freelance developer? With 2 years of experience in React.js, Node.js, and Golang, I specialize in building user-friendly and scalable web applications. I am committed to delivering high-quality work and ensuring every project exceeds expectations. Let's work together to bring your vision to life with exceptional results!
 
 * 🌍  I'm based in Jakarta, Indonesia
-* 🖥️  See my portfolio at [Personal Website](http://danangipulbasrin.com)
+* 🖥️  See my portfolio at [Personal Website](http://owner.logamart93.com)
 * ✉️  You can contact me at [danangipulbasrin@gmail.com](mailto:danangipulbasrin@gmail.com)
 * 🚀  I'm currently working on [PT Code Development Indonesia](http://code.id)
 
