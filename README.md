@@ -35,7 +35,7 @@ src="https://img.shields.io/github/followers/rkuning?logo=github&style=for-the-b
 <!--START_SECTION:waka-->
 
 ```go
-From: 28 October 2022 - To: 30 April 2026
+From: 28 October 2022 - To: 01 May 2026
 
 Total Time: 2,168 hrs 42 mins
 
