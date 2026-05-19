@@ -35,16 +35,16 @@ src="https://img.shields.io/github/followers/rkuning?logo=github&style=for-the-b
 <!--START_SECTION:waka-->
 
 ```go
-From: 28 October 2022 - To: 15 May 2026
+From: 28 October 2022 - To: 17 May 2026
 
-Total Time: 2,228 hrs 55 mins
+Total Time: 2,242 hrs 15 mins
 
-JavaScript                 1,133 hrs 5 mins      >>>>>>>>>>>>-------------   49.81 %
-TypeScript                 476 hrs 47 mins       >>>>>--------------------   20.96 %
-Go                         216 hrs 31 mins       >>-----------------------   09.52 %
-Vue.js                     89 hrs 6 mins         >------------------------   03.92 %
-Kotlin                     52 hrs 52 mins        >------------------------   02.32 %
-Other                      45 hrs 50 mins        >------------------------   02.01 %
+JavaScript                 1,133 hrs 22 mins     >>>>>>>>>>>>-------------   49.53 %
+TypeScript                 480 hrs 14 mins       >>>>>--------------------   20.99 %
+Go                         217 hrs 5 mins        >>-----------------------   09.49 %
+Vue.js                     88 hrs 55 mins        >------------------------   03.89 %
+Kotlin                     52 hrs 52 mins        >------------------------   02.31 %
+Other                      45 hrs 52 mins        >------------------------   02.00 %
 ```
 
 <!--END_SECTION:waka-->
